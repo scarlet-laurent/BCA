@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # Sidebar logo (tampilan lebih proporsional)
-st.sidebar.image(logo.png', width=150)
+st.sidebar.image('logo.png', width=150)
 
 # Judul
 st.title("📊 Dashboard Analisis - BSQ BCA KCU GADING SERPONG")
